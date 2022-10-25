@@ -6,6 +6,8 @@ using namespace std;
 
 void ekaterina();
 void ben();
+void christiancarter();
+void aaron();
 void marty();
 void Malik();
 
