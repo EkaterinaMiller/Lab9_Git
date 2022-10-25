@@ -2,6 +2,6 @@
 
 int main()
 {
-    ekaterina();
+    ruslan();
     return 0;
 }
