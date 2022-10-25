@@ -2,6 +2,7 @@ aaron
 HEAD
 test
 marty
+.bashrc.bak
 # Custom
 *.o
 main

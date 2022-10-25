@@ -2,6 +2,7 @@
 
 int main()
 {
+    ruslan();
     nolan();
     christiancarter();
     ekaterina();
@@ -14,35 +15,6 @@ int main()
     ben();
     aaron();
     Malik();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
-    ekaterina2();
     infinite();
     return 0;
 }
