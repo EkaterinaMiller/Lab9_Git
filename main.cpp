@@ -4,11 +4,11 @@ int main()
 {
     christiancarter();
     ekaterina();
+    brent();
     caleb();
     marty();
     ben();
     aaron();
-    marty();
     Malik();
     ekaterina2();
     ekaterina2();
