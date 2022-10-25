@@ -5,6 +5,7 @@
 using namespace std;
 
 void ekaterina();
+void lyle();
 void brent();
 void caleb();
 void ben();
