@@ -4,7 +4,11 @@
 #include <iostream>
 using namespace std;
 
+<<<<<<< HEAD
 void ekaterina();
 void ruslan();
+=======
+void marty();
+>>>>>>> origin
 
 #endif
