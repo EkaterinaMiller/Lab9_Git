@@ -6,5 +6,6 @@ using namespace std;
 
 void ekaterina();
 void lyle();
+void marty();
 
 #endif
