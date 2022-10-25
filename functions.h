@@ -7,5 +7,6 @@ using namespace std;
 void ekaterina();
 void aaron();
 void marty();
+void Malik();
 
 #endif
