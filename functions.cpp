@@ -1,6 +1,6 @@
 #include "functions.h"
 
-void marty()
+void ekaterina()
 {
     cout <<"Hello, my name is Ekaterina\n";
 }
