@@ -3,5 +3,6 @@
 int main()
 {
     ekaterina();
+    lance();
     return 0;
 }
