@@ -1,10 +1,22 @@
 #include "functions.h"
 
+void ekaterina()
+{
+    cout <<"Hello, my name is Ekaterina\n";
+}
+
+void davin()
+{
+    cout << "Hello, my name is Davin" << endl;
+    cout << "Oh hey, didn't see you there" << endl;
+    
+}
+
 void christiancarter()
 {
     cout << "Hello, my name is Christian Carter.";
     cout << "\nI am writing a second line of text.";
-}
+
 
 void marty()
 {
@@ -26,7 +38,8 @@ void caleb()
     cout <<"Hello, my name is Caleb\n";
 }
 
-void ben() {
+void ben() 
+{
     cout << "Hello, my name Ben" << endl;
     cout << "My name is still Ben" << endl;
 }
