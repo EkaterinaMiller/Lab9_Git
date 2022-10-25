@@ -1,12 +1,17 @@
+aaron
+HEAD
+test
 marty
 .bashrc.bak
 # Custom
 *.o
+main
 lab9
 main
+test
 # Prerequisites
 *.d
-
+.vscode/*
 # Compiled Object files
 *.slo
 *.lo
@@ -36,3 +41,4 @@ main
 *.exe
 *.out
 *.app
+lab9
