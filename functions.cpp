@@ -52,9 +52,6 @@ void Malik()
 
 }
 
-<<<<<<< HEAD
-}
-
 void ekaterina2(){
     cout <<"Hello, my name is Ekaterina\n";
     cout <<"Hello, my name is Ekaterina\n";
@@ -169,7 +166,6 @@ void infinite(){
         cout << "ERROR FUNCTIONS HAVE TOO MUCH FUNCTIONALITY\n";
     }
     cout << "ERROR FUNCTIONS HAVE TOO MUCH FUNCTIONALITY\n";
-=======
 
 void lance()
 
@@ -184,5 +180,4 @@ void lance()
     }
     cout<< "Yarr, this be the second Sea out statement landlubber";
     cout<<"edit this so I think I push more things";
->>>>>>> 31861977d51dd936811f7d1e55c6b22823df7e84
 }
