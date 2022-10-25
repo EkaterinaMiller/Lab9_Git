@@ -8,5 +8,7 @@ void ekaterina()
 void brent()
 {
     cout <<"Hello, my name is Brent" << endl;
+    cout << "new line" << endl;
     return;
+
 }
