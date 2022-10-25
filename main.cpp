@@ -3,5 +3,6 @@
 int main()
 {
     ekaterina();
+    brent();
     return 0;
 }
