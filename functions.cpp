@@ -2,6 +2,10 @@
 
 void marty()
 {
+    cout <<"Hello, my name is Marty\n Sending it back to you\n";
+}
+
+void ekaterina() {
     cout <<"Hello, my name is Ekaterina\n";
 }
 
