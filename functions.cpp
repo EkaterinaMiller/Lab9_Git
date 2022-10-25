@@ -13,3 +13,8 @@ void ben() {
     cout << "Hello, my name Ben" << endl;
     cout << "My name is still Ben" << endl;
 }
+
+void Malik()
+{
+    cout << "Hello, my name is Malik Robinson." << endl;
+}
