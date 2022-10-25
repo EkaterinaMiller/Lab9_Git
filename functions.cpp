@@ -1,56 +1,55 @@
 #include "functions.h"
 
-void ekaterina()
-{
-    cout <<"Hello, my name is Ekaterina\n";
-}
-
 void davin()
 {
     cout << "Hello, my name is Davin" << endl;
     cout << "Oh hey, didn't see you there" << endl;
-    
 }
 
 void christiancarter()
 {
     cout << "Hello, my name is Christian Carter.";
     cout << "\nI am writing a second line of text.";
-    }
+}
 
 void marty()
 {
     cout <<"Hello, my name is Marty\n Sending it back to you\n";
 }
 
-void ekaterina() {
+void ekaterina() 
+{
     cout <<"Hello, my name is Ekaterina\n";
 }
-
 
 void brent()
 {
     cout <<"Hello, my name is Brent" << endl;
     cout << "new line" << endl;
-  }
+}
 
 void caleb()
 {
     cout <<"Hello, my name is Caleb\n";
+}
+
 void ben()
 {
     cout << "Hello, my name Ben" << endl;
     cout << "My name is still Ben" << endl;
 
     cout <<"Hello, my name is Marty\n";
-    }
-void ben() {
+}
+
+void ben() 
+{
     cout << "Hello, my name Ben" << endl;
     cout << "My name is still Ben" << endl;
 
 }
 
-void aaron(){
+void aaron()
+{
     cout << "\n ____________________________________ \n";
     cout << "|  ________________________________  |\n";
     cout << "| | dont look at the readme -aaron | |\n";
@@ -58,12 +57,9 @@ void aaron(){
     cout << "|____________________________________|\n\n";
 
     cout << "\nthis is my second line\n";
-
 }
 
 void Malik()
 {
     cout << "Hello, my name is Malik Robinson." << endl;
-
-
 }
