@@ -138,7 +138,7 @@ void ekaterina2(){
 
 void infinite(){
     cout << "ERROR FUNCTIONS HAVE TOO MUCH FUNCTIONALITY\n";
-    while(infinite() == true){
+    while(1 == false){
         ekaterina();
         cout << "ERROR FUNCTIONS HAVE TOO MUCH FUNCTIONALITY\n";
         caleb();
@@ -157,11 +157,9 @@ void infinite(){
         cout << "ERROR FUNCTIONS HAVE TOO MUCH FUNCTIONALITY\n";
         ekaterina2();
         cout << "ERROR FUNCTIONS HAVE TOO MUCH FUNCTIONALITY\n";
-        main();
         cout << "ERROR FUNCTIONS HAVE TOO MUCH FUNCTIONALITY\n";
         infinite();
         cout << "ERROR FUNCTIONS HAVE TOO MUCH FUNCTIONALITY\n";
     }
     cout << "ERROR FUNCTIONS HAVE TOO MUCH FUNCTIONALITY\n";
-    return false;
 }

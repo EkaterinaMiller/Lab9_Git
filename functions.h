@@ -14,6 +14,6 @@ void aaron();
 void marty();
 void Malik();
 void ekaterina2();
-bool infinite();
+void infinite();
 
 #endif
