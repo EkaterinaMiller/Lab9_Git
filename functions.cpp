@@ -3,5 +3,5 @@
 void christiancarter()
 {
     cout << "Hello, my name is Christian Carter.";
-    cout << "\nI am writing a second line of text."
+    cout << "\nI am writing a second line of text.";
 }
