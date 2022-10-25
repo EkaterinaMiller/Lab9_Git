@@ -3,6 +3,7 @@ marty
 *.o
 lab9
 main
+test
 # Prerequisites
 *.d
 
