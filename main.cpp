@@ -7,6 +7,7 @@ int main()
     marty();
     ben();
     aaron();
+    caleb();
     Malik();
     return 0;
 }
