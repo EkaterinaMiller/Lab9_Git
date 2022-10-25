@@ -14,14 +14,21 @@ void ekaterina() {
     cout <<"Hello, my name is Ekaterina\n";
 }
 
+
+void brent()
+{
+    cout <<"Hello, my name is Brent" << endl;
+    cout << "new line" << endl;
+  }
+
 void caleb()
 {
     cout <<"Hello, my name is Caleb\n";
+    }
 void ben() {
     cout << "Hello, my name Ben" << endl;
     cout << "My name is still Ben" << endl;
 
-    cout <<"Hello, my name is Ekaterina\n";
 }
 
 void aaron(){
@@ -33,14 +40,11 @@ void aaron(){
 
     cout << "\nthis is my second line\n";
 
-    cout <<"Hello, my name is Marty\n Sending it back to you\n";
-
-
-    cout <<"Hello, my name is ekaterina\n";
 }
 
 void Malik()
 {
     cout << "Hello, my name is Malik Robinson." << endl;
+
 
 }
