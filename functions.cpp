@@ -1,8 +1,28 @@
 #include "functions.h"
 
+void marty()
+{
+
+    cout <<"Hello, my name is Marty\n Sending it back to you\n";
+}
 void ekaterina()
 {
     cout <<"Hello, my name is Ekaterina\n";
+}
+
+void aaron(){
+    cout << "\n ____________________________________ \n";
+    cout << "|  ________________________________  |\n";
+    cout << "| | dont look at the readme -aaron | |\n";
+    cout << "| |________________________________| |\n";
+    cout << "|____________________________________|\n\n";
+
+}
+
+void Malik()
+{
+    cout << "Hello, my name is Malik Robinson." << endl;
+
 }
 
 void lance()
