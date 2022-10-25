@@ -6,5 +6,6 @@ using namespace std;
 
 void ekaterina();
 void davin();
+void marty();
 
 #endif
