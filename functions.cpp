@@ -16,4 +16,5 @@ void lance()
         i++;
 
     }
+    cout<< "Yarr, this be the second Sea out statement landlubber";
 }
