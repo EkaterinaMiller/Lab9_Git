@@ -1,6 +1,16 @@
+aaron
+HEAD
+test
+marty
+# Custom
+*.o
+main
+lab9
+main
+test
 # Prerequisites
 *.d
-
+.vscode/*
 # Compiled Object files
 *.slo
 *.lo
@@ -22,7 +32,7 @@
 
 # Compiled Static libraries
 *.lai
-*.la
+*.las
 *.a
 *.lib
 
@@ -30,3 +40,4 @@
 *.exe
 *.out
 *.app
+lab9
