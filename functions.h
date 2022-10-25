@@ -4,6 +4,7 @@
 #include <iostream>
 using namespace std;
 
+void christiancarter();
 void ekaterina();
 void aaron();
 void marty();
