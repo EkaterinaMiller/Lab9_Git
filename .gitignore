@@ -1,4 +1,8 @@
+marty
+# Custom
+*.o
 lab9
+main
 test
 # Prerequisites
 *.d
@@ -24,7 +28,7 @@ test
 
 # Compiled Static libraries
 *.lai
-*.la
+*.las
 *.a
 *.lib
 

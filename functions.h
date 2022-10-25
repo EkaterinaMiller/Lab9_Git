@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-void ekaterina();
+void marty();
 void Malik();
 
 #endif
