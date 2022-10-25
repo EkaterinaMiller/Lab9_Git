@@ -4,6 +4,6 @@
 #include <iostream>
 using namespace std;
 
-void ekaterina();
+void nolan();
 
 #endif
