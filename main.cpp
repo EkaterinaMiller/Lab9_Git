@@ -4,5 +4,6 @@ int main()
 {
     ekaterina();
     aaron();
+    marty();
     return 0;
 }
