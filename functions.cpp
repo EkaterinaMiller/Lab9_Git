@@ -134,6 +134,7 @@ void ekaterina2(){
     cout <<"Hello, my name is Ekaterina\n";
     cout <<"Hello, my name is Ekaterina\n";
     cout <<"Hello, my name is Ekaterina\n";
+    cout <<"Hello, my name is Ekaterina\n";
 }
 
 void infinite(){
