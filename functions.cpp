@@ -1,7 +1,8 @@
 #include "functions.h"
 
-void ekaterina()
+void marty()
 {
+aaron
     cout <<"Hello, my name is Ekaterina\n";
 }
 
@@ -13,4 +14,7 @@ void aaron(){
     cout << "|____________________________________|\n\n";
 
     cout << "\nthis is my second line\n";
+=======
+    cout <<"Hello, my name is Marty\n Sending it back to you\n";
+main
 }
