@@ -8,6 +8,9 @@ int main()
     ben();
     brent();
     davin();
+    lance();
+    aaron();
+    marty();
     brent();
     caleb();
     marty();

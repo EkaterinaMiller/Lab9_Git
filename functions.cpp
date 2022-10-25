@@ -23,7 +23,8 @@ void marty()
     cout <<"Hello, my name is Marty\n Sending it back to you\n";
 }
 
-void ekaterina() {
+void ekaterina()
+{
     cout <<"Hello, my name is Ekaterina\n";
 }
 
@@ -57,4 +58,25 @@ void aaron() {
 void Malik()
 {
     cout << "Hello, my name is Malik Robinson." << endl;
+}
+
+void lance()
+
+{
+    int i =0;
+
+    while( i <10)
+    {
+        cout<< "Submitting a loop\n"; 
+        i++;
+
+    }
+    cout<< "Yarr, this be the second Sea out statement landlubber";
+    cout<<"edit this so I think I push more things";
+}
+
+void lyle()
+{
+    cout<<"Hello, my name is Lyle\n";
+    cout<<"I added something else\n";
 }
