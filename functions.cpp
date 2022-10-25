@@ -8,4 +8,5 @@ void ekaterina()
 void ruslan()
 {
     cout <<"Hello, my name is Ruslan\n";
+    cout << "Hello, my last name is Serebryakov";
 }
