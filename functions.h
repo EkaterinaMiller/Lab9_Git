@@ -13,5 +13,6 @@ void ekaterina();
 void aaron();
 void marty();
 void Malik();
+void lance();
 
 #endif
