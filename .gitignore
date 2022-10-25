@@ -1,4 +1,14 @@
 
+aaron
+HEAD
+test
+marty
+# Custom
+*.o
+main
+lab9
+main
+test
 # Prerequisites
 *.d
 
@@ -23,7 +33,7 @@
 
 # Compiled Static libraries
 *.lai
-*.la
+*.las
 *.a
 *.lib
 
