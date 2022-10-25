@@ -11,4 +11,6 @@ void aaron(){
     cout << "| | dont look at the readme -aaron | |\n";
     cout << "| |________________________________| |\n";
     cout << "|____________________________________|\n\n";
+
+    cout << "\nthis is my second line\n";
 }
