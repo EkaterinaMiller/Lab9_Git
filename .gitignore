@@ -1,3 +1,6 @@
+# Custom
+*.o
+
 # Prerequisites
 *.d
 
@@ -22,7 +25,7 @@
 
 # Compiled Static libraries
 *.lai
-*.la
+*.las
 *.a
 *.lib
 
