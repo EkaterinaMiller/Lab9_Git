@@ -4,6 +4,8 @@
 #include <iostream>
 using namespace std;
 
+
+void nolan();
 void ekaterina();
 void lyle();
 void brent();

@@ -2,6 +2,7 @@
 
 int main()
 {
+    nolan();
     christiancarter();
     ekaterina();
     lance();
